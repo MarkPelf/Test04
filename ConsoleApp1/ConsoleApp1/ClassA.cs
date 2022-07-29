@@ -12,6 +12,7 @@ namespace ConsoleApp1
         public void Print()
         {
             Console.WriteLine("ClassA.Print 1");
+            Console.WriteLine("ClassA.Print 444");
         }
     }
 }
