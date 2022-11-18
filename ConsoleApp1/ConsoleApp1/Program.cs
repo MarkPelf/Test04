@@ -10,7 +10,9 @@ namespace ConsoleApp1
             a.Print();
        
             Console.WriteLine("Hello World!");
+
             Console.WriteLine("LineChange1");
+            Console.WriteLine("LineChange2");
         }
     }
 }
